@@ -1,0 +1,33 @@
+#search
+{
+    margin-left: 10px;
+} 
+.btn
+{
+   margin-left: 700px
+}
+h1{
+    display: inline;
+    
+}
+#all{
+    margin-top: 15px;
+}
+.container{
+ background-color: aquamarine;
+ width:450px;
+ height: 500px;
+ border: 2px red solid;
+ margin: auto;
+ border-radius: 25px;  
+}
+body{
+       background: linear-gradient(
+          to Right,
+          rgb(60, 162, 94),
+          rgb(2, 195, 169),
+          rgb(107, 210, 96)
+        );
+       
+}
+
